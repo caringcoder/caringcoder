@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=caringcoder&" alt="caringcoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caringcoder&show_icons=true&locale=en" alt="caringcoder" /></p>
+<p>&nbsp;<img align="end" src="https://github-readme-stats.vercel.app/api?username=caringcoder&show_icons=true&locale=en" alt="caringcoder" /></p>
 
 
